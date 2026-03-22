@@ -1,0 +1,16 @@
+{
+  "title": "Matemáticas básicas",
+  "description": "Examen de operaciones aritméticas simples",
+  "questions": [
+    {
+      "question": "¿Cuánto es 7 + 5?",
+      "options": ["10", "11", "12", "13"],
+      "answer": 2
+    },
+    {
+      "question": "¿Cuál es el resultado de 9 × 3?",
+      "options": ["27", "21", "18", "36"],
+      "answer": 0
+    }
+  ]
+}
